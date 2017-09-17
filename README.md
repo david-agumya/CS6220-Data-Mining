@@ -4,4 +4,4 @@
 ## Content of Repository 
 
 * **IPython Notebooks
-** _IPython NoteBooks contains code containers in cells. An important tool for Data Scientists_
+_IPython NoteBooks contains code containers in cells. An important tool for Data Scientists_
