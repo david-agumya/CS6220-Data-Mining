@@ -86,8 +86,38 @@ Speaker Spotlight Series Extra Credit | 5/5
 
 TOTAL: 85/100
 ```
+
 <br>
 
+### Assignment 6 [95/100]
+```
+Implementation [55/60] lack of multiple features implementation
+Question1 [20/20]
+Question2 [20/20]
+```
+
+<br>
+
+### Assignment 7 [100/100]
+```
+1. 20/20
+2. 20/20
+3. 20/20
+4. 20/20
+5. 20/20
+```
+
+<br>
+
+### Assignment 8 [100/100]
+```
+1. 10/10
+2. 15/15
+3. 10/10
+4. 15/15
+5. 25/25
+6. 25/25
+```
 
 <br>
 
@@ -97,3 +127,11 @@ Feedback provided on slack.
 ```
 
 <br>
+
+### Project Presentation [95/100]
+```
+Great presentation using a dataset that's quite interesting and that elicits lots of thoughts and questions. I hope that through the work that you're doing for this project you are learning how these techniques can be readily applied to solve real problems such as the one you are tackling. I felt that you were a bit short on actual models and evaluations (which you noted so yourself) and I want you to make sure you focus a bit of your effort during these last few days on that aspect. I would also like to see a bit of information on precisely how you think your models can be used and by whom. Other than those minor notes... great job!
+```
+
+<br>
+
