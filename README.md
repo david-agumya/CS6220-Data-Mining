@@ -135,3 +135,13 @@ Great presentation using a dataset that's quite interesting and that elicits lot
 
 <br>
 
+### Project Paper [90/100]
+```
+* I find this topic very interesting and I think you did a great job diving into the dataset and slicing out various subquestions that can be answered with machine learning and descriptive data analysis.
+
+* The layout of the paper and some of the writing could be slightly improved 
+
+* I think you did a great job given the time that was allocated to the project. There a good chance that your theory for why your models did not perform well is, in fact, correct and that you may possibly benefit from more data. That said, I would have liked to see a more in-depth analysis of the instances that belong to the DENIED class. Is there something visually different about those instances? Do you have a sense for why it is so hard to predict them? Could it be that they simply look too similar to instances of the CERTIFIED class?
+```
+
+<br>
